@@ -4,3 +4,4 @@
 # print(test.WasRun)
 
 print "hello world"V
+
